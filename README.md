@@ -2,7 +2,7 @@
 
 
 # Netless
- <h3> Game Jam theme: Arch Enemy </h3> </br>
+ <h3> Game Jam theme: <strong> Arch Enemy </strong> </h3> </br>
 You are offline then browsers are your biggest enemys. Your only chance to not get tired is by defeating the 2 greatest villains of the internet.
 Download Link: </br>
 https://igaaoo.itch.io/netless
