@@ -1,7 +1,7 @@
 
-<p align="center">
+<p align="center" align-text="center">
   <img src="https://user-images.githubusercontent.com/88206626/155181512-984a0cc5-6edd-4638-985a-8145fa6e2a7b.png" />
-  <h1> Netless </h1>
+  Netless
 </p>
 
 
