@@ -19,3 +19,6 @@ By pressing the buttons on the right you will summon obstacles to destroy the vi
 
 ![image](https://user-images.githubusercontent.com/88206626/155180863-cc1e9fe8-cd8f-4d67-8218-4c68ce5a3633.png)
 
+
+![image](https://user-images.githubusercontent.com/88206626/155182354-f65a89d6-bf4b-4452-87a4-4734193dc652.png)
+
