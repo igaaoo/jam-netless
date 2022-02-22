@@ -1,7 +1,11 @@
-<img align="center" width="300" src="https://user-images.githubusercontent.com/88206626/155181512-984a0cc5-6edd-4638-985a-8145fa6e2a7b.png">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88206626/155181512-984a0cc5-6edd-4638-985a-8145fa6e2a7b.png" />
+  <h1> Netless </h1>
+</p>
 
 
-# Netless
+
  <h3> Game Jam theme: <strong> Arch Enemy </strong> </h3> </br>
 You are offline then browsers are your biggest enemys. Your only chance to not get tired is by defeating the 2 greatest villains of the internet.
 Download Link: </br>
